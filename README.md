@@ -10,5 +10,51 @@
 Deployment Models:
 
 1. Cloud based
+    Run all parts of the application in the cloud.
+    Migrate existing applications to the cloud.
+    Design and build new applications in the cloud.
+
 2. On-Premises
-3. Hybrid Deployment 
+    Deploy resources by using virtualization and resource management tools.
+    Increase resource utilization by using application management and virtualization technologies.
+On-premises deployment is also known as a private cloud deployment. In this model, resources are deployed on premises by using virtualization and resource management tools.
+
+
+3. Hybrid Deployment
+    Connect cloud-based resources to on-premises infrastructure.
+    Integrate cloud-based resources with legacy IT applications.
+
+In a hybrid deployment, cloud-based resources are connected to on-premises infrastructure. You might want to use this approach in a number of situations. For example, you have legacy applications that are better maintained on premises, or government regulations require your business to keep certain records on premises.
+
+## Compute in Cloud
+
+### Amazon Elastic Compute Cloud (Amazon EC2)
+
+It provides secure, resizable compute capacity in the cloud as Amazon EC2 instances. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
